@@ -1,6 +1,6 @@
 - 👋 Olá, sou @NaironL
 - 👀 Sou estudante de sistemas de informações e estou procurando  adquirir novos conhecimentos
-- 🌱 Atualmente estou focado em aprender php Laravel para desenvolvimento web
+- 🌱 Consegui desenvolver muito minhas habilidades em PHP e agora pretendo começar a aprofundar mais em Python
 - 📫 Esse é meu instagram, por lá você consegue me encontrar @naironluiz
 
 <!---
